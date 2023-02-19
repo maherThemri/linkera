@@ -1,0 +1,6 @@
+{
+    "recommendations": [
+        "chuaple.php-formatter",
+        "higoka.php-cs-fixer"
+    ]
+}
